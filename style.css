@@ -1,0 +1,737 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+@font-face{
+    
+    font-family:'Brandon Grotesque bold';
+    
+     src: url(fonts/Brandon_bld.otf);
+}
+@font-face{
+    
+    font-family:'Brandon Grotesque light';
+    src:url(fonts/Brandon_light.otf);
+}
+@font-face{
+    
+    font-family:'Brandon Grotesque medium';
+    src:url(fonts/Brandon_med.otf);
+}
+
+@font-face{
+    
+    font-family:'Brandon Grotesque regular';
+    src:url(fonts/Brandon_reg.otf);
+}
+@font-face{
+    
+    font-family:'Cubano regular';
+    src:  url(fonts/Cubano-Regular.ttf);
+}
+
+/*header section start*/
+header{
+    min-height: 620px;
+    background: url(img/background.jpg) no-repeat;
+    overflow: hidden;
+       background-position: cover;
+    background-size: cover;
+
+}
+
+.wrapper{
+     min-height: 620px;
+    background: url(img/Escape.png) no-repeat;
+    background-position: cover;
+       background-size: cover;
+   
+    
+    background: 
+    background: url(fonts/Brandon_reg.otf);
+}
+.wrapper2{
+    width:1492px;
+       margin: 0 auto;
+    overflow: hidden;
+    
+}
+
+.header_top{
+    min-height: 88px;
+    
+    
+}
+
+.logo {
+    
+    float: left;
+    width: 20%;
+    margin: 40px 0PX 40px 108px;
+    color:white;
+}
+.img1{
+    float: left;
+        margin-right: 5px;
+    margin-top: 5px;
+    
+    
+}
+.sub_title {
+    
+   float: left;
+    margin-left: 5px;
+     
+}
+.sub_title h1{
+    
+    font-family: 'Cubano regular';
+    font-weight: bold;
+}
+
+.nav {
+        float: right;
+    width: 56%;
+    margin-top: 5px;
+    margin-right: 177px;
+}
+
+
+.nav ul {
+    
+    float: right;
+    
+    
+}
+
+
+.nav ul li {
+    
+    float: left;
+    list-style: none;
+     padding: 40px 23px;
+    
+}
+
+
+.nav ul li a{
+  text-decoration: none;  
+     color: #ffffff;
+   
+    font-family: 
+    font-size: 13px;
+}
+
+.header_bottom{
+    width: 1010px;
+    min-height: 330px;
+    margin: 110px auto;
+    color: white;
+    
+text-align: center;
+}
+.qus{
+    font-size: 32pt;
+    font-family: 'Brandon Grotesque light';
+    
+}
+
+.ans{
+    font-size: 60.99pt;
+    font-family: 'Brandon Grotesque Bold';
+    
+    margin:30px 0px;
+    
+}
+.Learn{
+    min-height: 65px;
+    width: 246px;
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    border-radius: 3px;
+    font-size: 23pt;
+    font-family: 'Brandon Grotesque Bold';
+        margin-top: 40px;
+}
+
+
+/*header section end*/
+
+/*banner start*/
+
+.banner{
+    min-height: 880px;
+    color: black;
+    
+    
+}
+.wrapper3{
+    
+   
+    width: 1530px;
+    margin: 0 auto;
+    padding: 90px;
+    
+}
+
+.banner_all{
+   margin: 0 auto;
+    width: 1300px;
+}
+
+
+.banner1{
+
+    min-height: 592px;
+    margin: 0 auto;
+    width: 1300px; 
+    
+}
+.banner_content{
+  float: left;
+  width: 830px;
+    min-height: 256px;
+    
+    
+}
+
+.rightimg{
+    float: left;
+    width: 354px;
+    margin-left: 30px;
+    margin-top: 65px;
+}
+
+.rightimg img{
+    width: 100%;
+    
+}
+.leftimg{
+        float: left;
+    width: 325px;
+    margin-top: 34px;
+    margin-right: 48px;
+    
+}
+.leftimg img{
+    width: 100%;
+    
+}
+
+
+.banner_cap{
+    font-size: 60pt;
+    font-family: 'Brandon Grotesque light';
+    margin-bottom: 30px;
+ 
+}
+
+.banner2{
+    min-height: 480px;
+    
+    background-color: #fafafa;
+     
+    
+    
+}
+.banner_content2{
+  float:left;
+  width: 830px;
+    min-height: 256px;
+    margin-left: 50px;
+    
+}
+
+.dis1{
+    font-family: 'Brandon Grotesque regular'; 
+    font-size: 18pt;
+    margin-bottom: 30px;
+    color: #777777;
+}
+
+.dis2{
+    font-family: 'Brandon Grotesque regular'; 
+    font-size: 18pt;
+    color: #777777;
+    
+}
+
+/*banner end*/
+
+/*option start*/
+
+.option{
+    min-height: 600px;
+    overflow: hidden;
+    
+    
+    
+}
+.all_option{
+    
+        width: 1256px;
+    margin: 0 auto;
+    
+    
+}
+
+
+.single_option{
+    float: left;
+    min-height: 156px;
+    width: 530px;
+    margin-bottom: 56px;
+    margin-right: 98px;
+    
+    
+}
+.icon{
+    
+    
+       float: left; 
+min-height: 80px;
+    width: 80px;
+background-color: black;
+    border-radius: 130px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.one img{
+    
+    margin-left: 30px;
+    margin-top: 18px
+    
+    
+}
+.two img{
+    
+   margin-left: 22px;
+    margin-top: 22px;
+    
+    
+}
+.three img{
+    
+       margin-left: 24px;
+    margin-top: 20px;
+    
+}
+.four img{
+    
+      margin-left: 22px;
+    margin-top: 25px;
+    
+}
+.five img{
+    
+       margin-left: 21px;
+    margin-top: 18px;
+    
+    
+}
+.six img{
+    
+       margin-left: 23px;
+    margin-top: 22px;
+    
+    
+}
+.option_content{
+ width: 402px;
+    min-height: 126px;
+    
+   float: left;
+    color: #777777;
+}
+
+.option_content h6{
+    font-family: 'Brandon Grotesque medium'; 
+    font-size: 22pt;
+   
+}
+
+.option_dis{
+  font-family: 'Brandon Grotesque regular'; 
+    font-size: 18pt;
+
+    
+    
+}
+/*option end*/
+
+
+
+
+/*service start*/
+
+.service{
+    
+    
+    min-height: 1215px;
+    overflow: hidden;
+    background-color: #fafafa;
+     
+}
+.service_all{
+    width: 1300px;
+    margin: 0 auto;
+    
+}
+
+.service1{
+    
+   min-height: 194px;
+    text-align: center;
+    
+}
+
+
+.service_cap{
+    font-family:  'Brandon Grotesque light'; 
+    font-size: 60pt;
+    color: #3f3f3f;
+    
+}
+.spantype{
+   
+    color: black;
+    
+}
+
+
+.pre{
+    font-family: 'Brandon Grotesque regular'; 
+    font-size: 22pt;
+    color: #bdbdbd;
+}
+
+
+.service2{
+    
+    
+       min-height: 266px;
+    width: 1258px;
+    margin: 34px 0px 66px 0px;}
+
+.circle{
+    
+    float: left;
+        min-height: 262px;
+    width: 262px;
+    border-radius: 130px;
+    background-color: black;
+}
+
+.service_content{
+    margin-top: 30px;
+    float: left;
+    width: 882px;
+    min-height: 182px;
+    background: url(img/background2.png) no-repeat;
+    background-position: cover;
+    background-size: cover;
+    margin-left: 40px;
+    text-align: center;
+    
+}
+.service_dis{
+     font-family: 'Brandon Grotesque regular'; 
+    font-size: 26pt;
+   
+    text-align: center;
+    margin:50px 80px 10px 80px;
+}
+.service_dis2{
+    
+    
+     font-family: 'Brandon Grotesque regular'; 
+    font-size: 26pt;
+    color: #c7d0e5 ;
+     margin:0px 80px 40px 80px;
+}
+.service_content2{
+    float: left;
+   width: 952px;
+    min-height: 182px;
+    background-image: url(img/background3.png);
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: cover;
+    margin-right: 40px;
+     text-align: center;
+    margin-top: 30px;    
+
+}
+.service4{
+    min-height: 108px;
+    overflow: hidden;
+    background-color: white;
+    
+}
+.service_img{
+    margin-left: 80px;
+    width: 170px;
+    min-height: 50px;
+    float: left;
+        margin-top: -20px;
+    
+}
+
+/*service end*/
+
+/*testimonial start*/
+.testimonial{
+    
+    background-color: black;
+    color: white;
+}
+.service_cap2{
+    color: white;
+    font-family:  'Brandon Grotesque light'; 
+    font-size: 60pt;
+}
+
+.spantype2{
+   
+    color: white;
+}
+
+.pre2{
+    
+    color: #414141;
+     font-family: 'Brandon Grotesque regular'; 
+    font-size: 22pt;
+}
+
+.testimonial_bottom{
+    min-height: 468px;
+    width: 938px;
+    margin: 50px auto;
+    
+}
+
+.single_testimonial{
+    width: 260px;
+      float:left;
+    margin:20px 25px;
+   
+    text-align: center;
+}
+.circle2{
+    
+     min-height: 245px;
+    
+    width: 245px;
+    border-radius: 130px;
+    background-color: black;
+    border: 6px solid white;
+    
+}
+.circle_title{
+    
+    font-family: 'Brandon Grotesque Bold'; 
+    font-size: 18pt;
+    margin: 10px 0px 5px 0px;
+    color: #adadad;
+}
+.profession{
+    
+    font-family: 'Brandon Grotesque regular'; 
+    font-size: 16pt;
+    color: #e1e1e1;
+}
+.social_media{
+    width: 220px;
+    margin: 10px auto;
+}
+.media{
+    min-height: 48px;
+    width: 48px;
+    border-radius: 130px;
+    border: 5px solid white;
+    float: left;
+    margin-left: 12px;
+}
+.social_media2{
+    width: 150px;
+    margin: 10px auto;
+    
+}
+.media img{
+        margin-right: 1px;
+    margin-top: 17px;
+    
+}
+.details2{
+    margin-top: 40px;
+    color: #b1b1b1;
+    font-family: 'Brandon Grotesque regular';
+    font-size: 20pt;
+    text-align: center;
+    min-height: 78px;
+      width: 938px;
+    margin: 10px auto;
+    
+
+    
+}
+/*testimonial end*/
+
+/*footer start*/
+.footer{
+    
+    
+    background-color: #7690c5;
+    overflow: hidden;
+    min-height: 580px;
+}
+.footer_all{
+    width: 1140px;
+    margin: 0 auto;
+    
+    
+    
+}
+.left_side{
+    float: left;
+    min-height: 500px;
+    width: 600px;
+    margin-right: 30px;
+    text-align: left;
+}
+.testimonial_top{
+    
+    
+    min-height: 150px;
+    margin: 30px 0px;
+}
+
+.pre3{
+    
+    color: white;
+     font-family: 'Brandon Grotesque regular';
+    font-weight: 400;
+    font-size: 18pt;
+    text-align: left;
+    margin-top: 10px;
+}
+
+    
+
+
+.right_side{
+    min-height: 390px;
+    width: 490px;
+    float: left;
+    
+}
+
+.left_side_bottom{
+    
+    min-height: 220px;
+    
+    
+}
+.single_one{
+    width: 240px;
+    min-height: 65px;
+    float: left;
+    margin-bottom: 20px;
+}
+.single_one:nth-child(even){
+  
+    margin-left: 100px;
+    
+}
+.single_one:nth-child(4){
+  
+ margin-left: 104px;
+    
+}
+.bottom_img{
+    float: left;
+    margin-right: 10px;
+    margin-top: 08px;
+    
+}
+
+.bottom_dis{
+    color: white;
+    float: left;
+    
+    margin-top: 0px;
+}
+.bottom_dis p{
+ font-family: 'Brandon Grotesque regular';
+    font-weight: 400;
+    font-size: 18pt;
+}
+.right_side{
+    margin-top: 30px;
+    margin-left: 20px;
+    
+}
+
+.form_group{
+    margin-top: 30px;
+    
+}
+.name{
+    width: 460px;
+    min-height: 60px;
+    
+    border-radius: 4px;
+   padding: 10px 0px 0px 10px;
+    
+}
+.email{
+    width: 460px;
+    min-height: 60px;
+     border-radius: 4px;
+    padding: 10px 0px 0px 10px;
+    
+}
+.message{
+    width: 460px;
+    min-height: 220px;
+     border-radius: 4px;
+    
+    padding: 10px 0px 0px 10px;
+    
+}
+/*footer end*/
+
+.footer_bottom{
+    
+    min-height: 230px;
+    background-color:#7690c5;
+    overflow: hidden;
+}
+.wrapper4{
+    width: 900px;
+    min-height: 110px;
+    border-top: 1px solid #87a0d2;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.conclsn{
+    text-align: center;
+    margin-top: 30px;
+    
+ font-family: 'Brandon Grotesque regular';
+    font-weight:500;
+    font-size: 16pt;
+    color: white;
+}
+
+
+
+
+
+
